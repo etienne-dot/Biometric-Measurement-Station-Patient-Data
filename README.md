@@ -40,6 +40,11 @@ Numpy
 
 # Quick setup guide:
 
+Install/configure the required software
+
 Copy the content of the repo in the next apache2 folder>  /var/www/html/
 
-Install the required software
+Now you can acces the UI(site via apache2)
+
+Set the database passwords and name to the one u choose to use these need to be set in the script also
+
