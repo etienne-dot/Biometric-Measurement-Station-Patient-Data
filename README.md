@@ -38,13 +38,34 @@ MariaDB
 
 Numpy
 
-# Quick setup guide:
+# Quick Setup Guide
+**Install and Configure Required Software**
+Ensure all necessary software dependencies are installed and configured.
 
-Install/configure the required software
+**Copy Repository Files**
+Copy the contents of the repository to the Apache2 web directory:
 
-Copy the content of the repo in the next apache2 folder>  /var/www/html/
+**bash**
+sudo cp -R /path/to/your/repo/* /var/www/html/
 
-Now you can acces the UI(site via apache2)
+**Access the User Interface**
+You can now access the UI (site) via Apache2.
 
-Set the database passwords and name to the one u choose to use these need to be set in the script also
+**Configure Database Credentials**
+Set the database username, password, and name in the following scripts:
+* db_config.php
+* sensor.py
+  
+**Connect the Sensor**
+Ensure the sensor is properly connected to the designated pins.
+VCC (Pin 1, 3.3V)  	VCC
+GND (Pin 6, Ground)	GND
+SDA (Pin 3, GPIO2)	SDA
+SCL (Pin 5, GPIO3)	SCL
 
+**Verify Sensor Functionality**
+Run the following script to check if the sensor is working correctly:
+
+**Additional Testing Scripts**
+**Database Connection Tester:** Use test_db.php to confirm a successful database connection.
+**Sensor Tester:** Use test_sensor.py to verify the sensor is reading correctly.
