@@ -45,8 +45,11 @@ Ensure all necessary software dependencies are installed and configured.
 **Copy Repository Files**
 Copy the contents of the repository to the Apache2 web directory:
 
-**bash**
+**Copying the Files to the Correct Location**
 sudo cp -R /path/to/your/repo/* /var/www/html/
+
+**Ensuring file permissions:**
+sudo chown -R www-data:www-data /var/www/html/*
 
 **Access the User Interface**
 You can now access the UI (site) via Apache2.
