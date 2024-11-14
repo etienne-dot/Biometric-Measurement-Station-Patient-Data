@@ -14,3 +14,7 @@ M -> F jumper wires
 MAX30102
 
 MAX30101
+
+Breadboard
+
+Mouse, keyboard, and screen, or alternatively, CNV can be used!
