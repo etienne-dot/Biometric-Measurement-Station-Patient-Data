@@ -18,3 +18,12 @@ MAX30101
 Breadboard
 
 Mouse, keyboard, and screen, or alternatively, CNV can be used!
+
+### Required software:
+apache2
+
+MariaDB
+
+Numpy
+
+
