@@ -14,7 +14,7 @@ There are hard-coded passwords inside files (such as database connection scripts
 ### Note: These issues are not being addressed as they fall outside the current project scope.
 
 
-### Required hardware:
+## Required hardware:
 Raspberry pi 
 
 SD card 16/32GB
@@ -29,7 +29,7 @@ Breadboard
 
 Mouse, keyboard, and screen, or alternatively, CNV can be used!
 
-### Required software:
+## Required software:
 apache2
 
 MariaDB
