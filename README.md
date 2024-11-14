@@ -73,5 +73,5 @@ Run the following script to check if the sensor is working correctly:
 **Database Connection Tester:** Use test_db.php to confirm a successful database connection.
 **Sensor Tester:** Use test_sensor.py to verify the sensor is reading correctly.
 
-**Usage and License:**<br>
+# **Usage and License:**<br>
 This project/repository can be used for any purpose, personal or commercial. Feel free to modify, share, and integrate the code as needed.
