@@ -41,3 +41,5 @@ Numpy
 # Quick install guide:
 
 Copy the content of the repo in the next apache2 folder>  /var/www/html/
+
+Install the required software
