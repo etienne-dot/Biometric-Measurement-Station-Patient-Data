@@ -51,10 +51,10 @@ sudo cp -R /path/to/your/repo/* /var/www/html/
 **Ensuring file permissions:**
 sudo chown -R www-data:www-data /var/www/html/*
 
-**Access the User Interface:**
+**Access the User Interface:**<br>
 You can now access the UI (site) via Apache2.
 
-**Configure Database Credentials:**<br>
+**Configure Database Credentials:**
 Set the database username, password, and name in the following scripts:
 * db_config.php
 * sensor.py
