@@ -54,7 +54,7 @@ sudo chown -R www-data:www-data /var/www/html/*
 **Access the User Interface:**
 You can now access the UI (site) via Apache2.
 
-**Configure Database Credentials:** <br>
+**Configure Database Credentials:**<br>
 Set the database username, password, and name in the following scripts:
 * db_config.php
 * sensor.py
