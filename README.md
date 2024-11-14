@@ -25,7 +25,7 @@ MAX30102
 
 MAX30101 (optional)
 
-2x capacitors 10QF
+2x capacitors 10μF
 
 Breadboard
 
