@@ -21,9 +21,11 @@ SD card 16/32GB
 
 M -> F jumper wires
 
-MAX30102
+MAX30102 
 
-MAX30101
+MAX30101 (optional)
+
+2x capacitors 10QF
 
 Breadboard
 
