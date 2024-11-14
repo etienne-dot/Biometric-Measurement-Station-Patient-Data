@@ -39,22 +39,22 @@ MariaDB
 Numpy
 
 # Quick Setup Guide
-**Install and Configure Required Software:**
+**Install and Configure Required Software:**<br>
 Ensure all necessary software dependencies are installed and configured.
 
-**Copy Repository Files:**
+**Copy Repository Files:**<br>
 Copy the contents of the repository to the Apache2 web directory:
 
-**Copying the Files to the Correct Location:**
+**Copying the Files to the Correct Location:**<br>
 sudo cp -R /path/to/your/repo/* /var/www/html/
 
-**Ensuring file permissions:**
+**Ensuring file permissions:**<br>
 sudo chown -R www-data:www-data /var/www/html/*
 
 **Access the User Interface:**<br>
 You can now access the UI (site) via Apache2.
 
-**Configure Database Credentials:**
+**Configure Database Credentials:**<br>
 Set the database username, password, and name in the following scripts:
 * db_config.php
 * sensor.py
