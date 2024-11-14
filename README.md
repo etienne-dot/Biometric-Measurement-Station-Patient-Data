@@ -8,6 +8,9 @@ This system is intended for testing purposes only and is not suitable for real-w
 Raspberry pi 
 
 SD card 16/32GB
+
 M -> F jumper wires
+
 MAX30102
+
 MAX30101
