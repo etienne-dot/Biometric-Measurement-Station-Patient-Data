@@ -60,11 +60,11 @@ Set the database username, password, and name in the following scripts:
 * sensor.py
    
 **Connect the Sensor:**
-Ensure the sensor is properly connected to the designated pins.
-VCC (Pin 1, 3.3V)  	VCC
-GND (Pin 6, Ground)	GND
-SDA (Pin 3, GPIO2)	SDA
-SCL (Pin 5, GPIO3)	SCL
+Ensure the sensor is properly connected to the designated pins.<br>
+VCC (Pin 1, 3.3V)  	VCC<br>
+GND (Pin 6, Ground)	GND<br>
+SDA (Pin 3, GPIO2)	SDA<br>
+SCL (Pin 5, GPIO3)	SCL<br>
 
 **Verify Sensor Functionality:**
 Run the following script to check if the sensor is working correctly:
