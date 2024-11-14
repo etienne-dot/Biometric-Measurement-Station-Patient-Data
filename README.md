@@ -58,7 +58,7 @@ You can now access the UI (site) via Apache2.
 Set the database username, password, and name in the following scripts:
 * db_config.php
 * sensor.py
-  
+   
 **Connect the Sensor:**
 Ensure the sensor is properly connected to the designated pins.
 VCC (Pin 1, 3.3V)  	VCC
